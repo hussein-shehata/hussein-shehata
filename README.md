@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussein Shehata</h1>
 <h3 align="center"> 🔭 Senior Communication and Electronics Engineering student at Cairo University</h3>
 
-- 🚗 I’m currently Head of Embedded Linux Team in Cairo Unversity Racing Team - Formula Student competition. 
+- 🚗 I’m currently Head of Embedded Linux Team in Cairo Unversity Racing Team - Formula Student. 
 - 🔭 I’m currently working on **Sign Language Translation**
 - 🌱 I’m currently learning Machine Learning and Advanced Embedded System.
 - 👯 I’m looking to collaborate on a Graduation Project on Embedded Systems and Machine Learning.
