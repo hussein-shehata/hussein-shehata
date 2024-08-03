@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hussein Shehata</h1>
-<h3 align="center"> 🔭 junior Software Engineer</h3>
+<h3 align="center"> 🔭 Junior Software Engineer</h3>
 
 - 🚗 I was Head of Embedded Linux Team in Cairo Unversity Racing Team - Formula Student. 
-- 🔭 I’m currently working on **Sign Language Translation**
+- 🔭 I’m currently working on how to optimize computer vision models and deploy them in Limited Resource Microcontroller
 - 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on a large production Project on Embedded Systems and Machine Learning.
+- 👯 I’m looking to collaborate on a large production Project on Embedded Systems and Machine Learning and C++ Projects.
 - 📫 How to reach me: https://www.linkedin.com/in/hussein-shehata/
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Y20C8RsrJW87iZjTeSuGS-4HV6KAwRnO/view?usp=sharing)
 
